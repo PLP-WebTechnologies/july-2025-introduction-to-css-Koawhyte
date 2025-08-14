@@ -1,0 +1,89 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,p{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+.navbar {
+    text-align: end;
+    padding: 2rem 1rem;
+   
+}
+
+.home{
+    color: palegreen;
+}
+
+.nav_link{
+    color: white;
+}
+
+.navbar a{
+margin-right: 30px;
+text-decoration: none;
+
+}
+
+.navbtn{
+    background: palegreen;
+    padding: .5rem;
+    border-radius: 4px;
+    font-weight: 500;
+    color: black;
+
+}
+
+
+
+.hero{
+margin-top: 15vh;
+
+}
+
+.services{
+    color: white;
+    
+    margin-top: 10vh;
+}
+
+.services h5{
+    text-align: center;
+}
+
+.container{
+    background: #333;
+    
+    border-radius: 4px;
+    padding: 2rem;
+    color: #333;
+}
+
+.profile_info{
+    color: white;
+    text-align: center;
+}
+.profile_info h2{
+    line-height: 1.5;
+}
+
+.col{
+   margin-bottom: 2rem;
+    background: palegreen;
+    padding: 1.2rem;
+    border-radius: 4px;
+}
+
+
+    
+    
